@@ -1,0 +1,126 @@
+{
+  "data": {
+    "nodeVolunteerOpportunities": {
+      "__typename": "NodeVolunteerOpportunityConnection",
+      "nodes": [
+        {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-dog-walker",
+          "title": "Dog Walker",
+          "path": "/volunteer/dog-walker",
+          "body": {
+            "processed": "<p>Help our shelter dogs get the exercise and socialization they need by volunteering as a dog walker. You will take dogs on walks around our facility grounds and nearby trails, providing them with fresh air, exercise, and human interaction.</p><h2>What You Will Do</h2><ul><li>Walk dogs on designated routes</li><li>Monitor dog behavior and report any concerns</li><li>Provide enrichment activities</li><li>Help with basic grooming after walks</li></ul>",
+            "summary": "Help our shelter dogs get the exercise and socialization they need by volunteering as a dog walker. You will take dogs on walks around our facility grounds and nearby trails, providing them with fresh"
+          },
+          "commitment": "4 hours/week",
+          "location": "Main Shelter",
+          "skillsNeeded": "Comfortable with dogs of all sizes; basic leash handling",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=800&q=80",
+            "alt": "Dog Walker Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-cat-socializer",
+          "title": "Cat Socializer",
+          "path": "/volunteer/cat-socializer",
+          "body": {
+            "processed": "<p>Many of our cats arrive shy and fearful. As a cat socializer, you will spend quality time with our feline residents, helping them become comfortable around people and increasing their chances of adoption.</p><h2>What You Will Do</h2><ul><li>Sit quietly with shy cats and build trust</li><li>Play with cats using approved toys</li><li>Brush and groom cats</li><li>Document behavior changes and progress</li></ul>",
+            "summary": "Many of our cats arrive shy and fearful. As a cat socializer, you will spend quality time with our feline residents, helping them become comfortable around people and increasing their chances of adopt"
+          },
+          "commitment": "3 hours/week",
+          "location": "Cat Wing, Main Shelter",
+          "skillsNeeded": "Patience and gentleness; experience with cats preferred",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=800&q=80",
+            "alt": "Cat Socializer Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-event-helper",
+          "title": "Event Helper",
+          "path": "/volunteer/event-helper",
+          "body": {
+            "processed": "<p>Our events are critical to raising awareness and funds for the rescue. Event helpers assist with setup, registration, managing activities, and teardown. This is a great opportunity for those who enjoy working with people.</p><h2>What You Will Do</h2><ul><li>Set up and take down event materials</li><li>Greet and register attendees</li><li>Assist with animal demonstrations</li><li>Help with auction and raffle coordination</li></ul>",
+            "summary": "Our events are critical to raising awareness and funds for the rescue. Event helpers assist with setup, registration, managing activities, and teardown. This is a great opportunity for those who enjoy"
+          },
+          "commitment": "Varies by event",
+          "location": "Various locations",
+          "skillsNeeded": "Organized, friendly, and reliable; event experience a plus",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Event Helper Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

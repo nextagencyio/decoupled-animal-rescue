@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Pawsitive Haven Animal Rescue",
+          "path": "/homepage",
+          "heroTitle": "Give Them a Second Chance",
+          "heroSubtitle": "Every Animal Deserves a Loving Home",
+          "heroDescription": {
+            "processed": "<p>Pawsitive Haven rescues, rehabilitates, and rehomes animals in need. Browse our adoptable pets, volunteer your time, or donate to help us save more lives every day.</p>",
+            "summary": "Pawsitive Haven rescues, rehabilitates, and rehomes animals in need. Browse our adoptable pets, volunteer your time, or donate to help us save more lives every day."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-adopted",
+              "title": "",
+              "number": "2,500+",
+              "label": "Animals Adopted"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "300+",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-rescued",
+              "title": "",
+              "number": "5,000+",
+              "label": "Animals Rescued"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "15",
+              "label": "Years Serving"
+            }
+          ],
+          "featuredAnimalsTitle": "Meet Our Adoptable Pets",
+          "ctaTitle": "Ready to Change a Life?",
+          "ctaDescription": {
+            "processed": "<p>Whether you adopt, foster, volunteer, or donate, every action makes a difference for animals in need.</p>",
+            "summary": "Whether you adopt, foster, volunteer, or donate, every action makes a difference for animals in need."
+          },
+          "ctaPrimary": "Adopt Today",
+          "ctaSecondary": "Become a Volunteer"
+        }
+      ]
+    }
+  }
+}

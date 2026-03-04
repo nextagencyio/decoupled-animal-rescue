@@ -1,0 +1,860 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Pawsitive Haven Animal Rescue",
+          "path": "/homepage",
+          "heroTitle": "Give Them a Second Chance",
+          "heroSubtitle": "Every Animal Deserves a Loving Home",
+          "heroDescription": {
+            "processed": "<p>Pawsitive Haven rescues, rehabilitates, and rehomes animals in need. Browse our adoptable pets, volunteer your time, or donate to help us save more lives every day.</p>",
+            "summary": "Pawsitive Haven rescues, rehabilitates, and rehomes animals in need. Browse our adoptable pets, volunteer your time, or donate to help us save more lives every day."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-adopted",
+              "title": "",
+              "number": "2,500+",
+              "label": "Animals Adopted"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-volunteers",
+              "title": "",
+              "number": "300+",
+              "label": "Active Volunteers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-rescued",
+              "title": "",
+              "number": "5,000+",
+              "label": "Animals Rescued"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "15",
+              "label": "Years Serving"
+            }
+          ],
+          "featuredAnimalsTitle": "Meet Our Adoptable Pets",
+          "ctaTitle": "Ready to Change a Life?",
+          "ctaDescription": {
+            "processed": "<p>Whether you adopt, foster, volunteer, or donate, every action makes a difference for animals in need.</p>",
+            "summary": "Whether you adopt, foster, volunteer, or donate, every action makes a difference for animals in need."
+          },
+          "ctaPrimary": "Adopt Today",
+          "ctaSecondary": "Become a Volunteer"
+        }
+      }
+    }
+  },
+  "/animals/bella": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAnimal",
+          "id": "animal-bella",
+          "title": "Bella",
+          "path": "/animals/bella",
+          "body": {
+            "processed": "<p>Bella is a sweet and gentle golden retriever mix who loves long walks and belly rubs. She was found as a stray and has blossomed into a confident, loving companion during her time at the shelter.</p><h2>About Bella</h2><p>Bella is fully vaccinated, spayed, and microchipped. She walks well on a leash and knows basic commands like sit, stay, and shake. She would thrive in a home with a yard where she can play fetch.</p>",
+            "summary": "Bella is a sweet and gentle golden retriever mix who loves long walks and belly rubs. She was found as a stray and has blossomed into a confident, loving companion during her time at the shelter.About"
+          },
+          "species": [
+            {
+              "id": "dog",
+              "name": "dog"
+            }
+          ],
+          "breed": "Golden Retriever Mix",
+          "age": "3 years",
+          "gender": "Female",
+          "adoptionFee": "$250",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+            "alt": "Bella - Golden Retriever Mix",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        }
+      }
+    }
+  },
+  "/animals/shadow": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAnimal",
+          "id": "animal-shadow",
+          "title": "Shadow",
+          "path": "/animals/shadow",
+          "body": {
+            "processed": "<p>Shadow is a sleek black cat with mesmerizing green eyes. He is calm, independent, and enjoys lounging in sunny spots. Shadow gets along well with other cats and is perfect for a quiet household.</p><h2>About Shadow</h2><p>Shadow is neutered, vaccinated, and FIV/FeLV negative. He enjoys being petted but also appreciates his alone time. He would be a wonderful addition to a calm home.</p>",
+            "summary": "Shadow is a sleek black cat with mesmerizing green eyes. He is calm, independent, and enjoys lounging in sunny spots. Shadow gets along well with other cats and is perfect for a quiet household.About "
+          },
+          "species": [
+            {
+              "id": "cat",
+              "name": "cat"
+            }
+          ],
+          "breed": "Domestic Shorthair",
+          "age": "4 years",
+          "gender": "Male",
+          "adoptionFee": "$150",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80",
+            "alt": "Shadow - Black Domestic Shorthair",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        }
+      }
+    }
+  },
+  "/animals/max": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAnimal",
+          "id": "animal-max",
+          "title": "Max",
+          "path": "/animals/max",
+          "body": {
+            "processed": "<p>Max is an energetic and playful young German Shepherd who loves to run and play fetch. He is smart, eager to please, and would benefit from an active family who can provide plenty of exercise and mental stimulation.</p><h2>About Max</h2><p>Max is neutered, vaccinated, and microchipped. He knows several commands and is crate-trained. He does best as the only pet in the household.</p>",
+            "summary": "Max is an energetic and playful young German Shepherd who loves to run and play fetch. He is smart, eager to please, and would benefit from an active family who can provide plenty of exercise and ment"
+          },
+          "species": [
+            {
+              "id": "dog",
+              "name": "dog"
+            }
+          ],
+          "breed": "German Shepherd",
+          "age": "1.5 years",
+          "gender": "Male",
+          "adoptionFee": "$300",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=800&q=80",
+            "alt": "Max - German Shepherd",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": false
+        }
+      }
+    }
+  },
+  "/animals/luna": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAnimal",
+          "id": "animal-luna",
+          "title": "Luna",
+          "path": "/animals/luna",
+          "body": {
+            "processed": "<p>Luna is a beautiful calico cat with a playful and affectionate personality. She loves chasing feather toys and curling up in laps for afternoon naps. Luna was surrendered when her previous owner moved and could not take her along.</p><h2>About Luna</h2><p>Luna is spayed, vaccinated, and litter-box trained. She is indoor-only and would do well in a home with or without other cats.</p>",
+            "summary": "Luna is a beautiful calico cat with a playful and affectionate personality. She loves chasing feather toys and curling up in laps for afternoon naps. Luna was surrendered when her previous owner moved"
+          },
+          "species": [
+            {
+              "id": "cat",
+              "name": "cat"
+            }
+          ],
+          "breed": "Calico",
+          "age": "2 years",
+          "gender": "Female",
+          "adoptionFee": "$150",
+          "animalStatus": [
+            {
+              "id": "pending",
+              "name": "pending"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=800&q=80",
+            "alt": "Luna - Calico Cat",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        }
+      }
+    }
+  },
+  "/animals/biscuit": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeAnimal",
+          "id": "animal-biscuit",
+          "title": "Biscuit",
+          "path": "/animals/biscuit",
+          "body": {
+            "processed": "<p>Biscuit is an adorable Holland Lop rabbit with floppy ears and a curious personality. He enjoys hopping around, munching on hay, and being gently petted. Biscuit is litter-trained and easy to care for.</p><h2>About Biscuit</h2><p>Biscuit is neutered and in great health. He needs a spacious enclosure with daily time outside the cage to explore. He is gentle and great for families with older children.</p>",
+            "summary": "Biscuit is an adorable Holland Lop rabbit with floppy ears and a curious personality. He enjoys hopping around, munching on hay, and being gently petted. Biscuit is litter-trained and easy to care for"
+          },
+          "species": [
+            {
+              "id": "rabbit",
+              "name": "rabbit"
+            }
+          ],
+          "breed": "Holland Lop",
+          "age": "1 year",
+          "gender": "Male",
+          "adoptionFee": "$75",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80",
+            "alt": "Biscuit - Holland Lop Rabbit",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": false
+        }
+      }
+    }
+  },
+  "/events/spring-adoption-day": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-adoption-day",
+          "title": "Spring Adoption Day",
+          "path": "/events/spring-adoption-day",
+          "body": {
+            "processed": "<p>Join us for our biggest adoption event of the season! Meet dozens of adoptable dogs, cats, and small animals looking for their forever homes. Reduced adoption fees all day long.</p><h2>What to Expect</h2><ul><li>Meet adoptable animals</li><li>Talk with adoption counselors</li><li>Free pet supplies for adopters</li><li>Food trucks and family activities</li></ul>",
+            "summary": "Join us for our biggest adoption event of the season! Meet dozens of adoptable dogs, cats, and small animals looking for their forever homes. Reduced adoption fees all day long.What to ExpectMeet adop"
+          },
+          "eventDate": {
+            "timestamp": 1776610800
+          },
+          "endDate": {
+            "timestamp": 1776632400
+          },
+          "location": "Pawsitive Haven Main Shelter",
+          "eventType": [
+            {
+              "id": "adoption-event",
+              "name": "adoption-event"
+            }
+          ],
+          "registrationUrl": "https://pawsitivehaven.org/register/adoption-day",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+            "alt": "Spring Adoption Day",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/furry-friends-gala": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-gala",
+          "title": "Furry Friends Annual Gala",
+          "path": "/events/furry-friends-gala",
+          "body": {
+            "processed": "<p>Our annual gala is our premier fundraising event, featuring a silent auction, live entertainment, dinner, and heartwarming stories of rescued animals. All proceeds go directly to animal care and rescue operations.</p><h2>Event Highlights</h2><ul><li>Cocktail hour and silent auction</li><li>Three-course dinner</li><li>Live music by The Howlers</li><li>Special recognition of top volunteers</li></ul>",
+            "summary": "Our annual gala is our premier fundraising event, featuring a silent auction, live entertainment, dinner, and heartwarming stories of rescued animals. All proceeds go directly to animal care and rescu"
+          },
+          "eventDate": {
+            "timestamp": 1778972400
+          },
+          "endDate": {
+            "timestamp": 1778986800
+          },
+          "location": "Grand Ballroom, Riverside Hotel",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://pawsitivehaven.org/register/gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800&q=80",
+            "alt": "Furry Friends Annual Gala",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/puppy-training-workshop": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-training",
+          "title": "Free Puppy Training Workshop",
+          "path": "/events/puppy-training-workshop",
+          "body": {
+            "processed": "<p>New to dog ownership? Join our certified trainer for a free workshop covering basic obedience, socialization, and house training techniques. Open to all community members, not just adopters.</p><h2>Topics Covered</h2><ul><li>Basic commands (sit, stay, come)</li><li>Leash walking</li><li>House training tips</li><li>Socialization strategies</li></ul>",
+            "summary": "New to dog ownership? Join our certified trainer for a free workshop covering basic obedience, socialization, and house training techniques. Open to all community members, not just adopters.Topics Cov"
+          },
+          "eventDate": {
+            "timestamp": 1775415600
+          },
+          "endDate": {
+            "timestamp": 1775422800
+          },
+          "location": "Pawsitive Haven Training Center",
+          "eventType": [
+            {
+              "id": "training",
+              "name": "training"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+            "alt": "Puppy Training Workshop",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/volunteer/dog-walker": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-dog-walker",
+          "title": "Dog Walker",
+          "path": "/volunteer/dog-walker",
+          "body": {
+            "processed": "<p>Help our shelter dogs get the exercise and socialization they need by volunteering as a dog walker. You will take dogs on walks around our facility grounds and nearby trails, providing them with fresh air, exercise, and human interaction.</p><h2>What You Will Do</h2><ul><li>Walk dogs on designated routes</li><li>Monitor dog behavior and report any concerns</li><li>Provide enrichment activities</li><li>Help with basic grooming after walks</li></ul>",
+            "summary": "Help our shelter dogs get the exercise and socialization they need by volunteering as a dog walker. You will take dogs on walks around our facility grounds and nearby trails, providing them with fresh"
+          },
+          "commitment": "4 hours/week",
+          "location": "Main Shelter",
+          "skillsNeeded": "Comfortable with dogs of all sizes; basic leash handling",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=800&q=80",
+            "alt": "Dog Walker Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1601758174114-e711c0cbaa69?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/volunteer/cat-socializer": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-cat-socializer",
+          "title": "Cat Socializer",
+          "path": "/volunteer/cat-socializer",
+          "body": {
+            "processed": "<p>Many of our cats arrive shy and fearful. As a cat socializer, you will spend quality time with our feline residents, helping them become comfortable around people and increasing their chances of adoption.</p><h2>What You Will Do</h2><ul><li>Sit quietly with shy cats and build trust</li><li>Play with cats using approved toys</li><li>Brush and groom cats</li><li>Document behavior changes and progress</li></ul>",
+            "summary": "Many of our cats arrive shy and fearful. As a cat socializer, you will spend quality time with our feline residents, helping them become comfortable around people and increasing their chances of adopt"
+          },
+          "commitment": "3 hours/week",
+          "location": "Cat Wing, Main Shelter",
+          "skillsNeeded": "Patience and gentleness; experience with cats preferred",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=800&q=80",
+            "alt": "Cat Socializer Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/volunteer/event-helper": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeVolunteerOpportunity",
+          "id": "volunteer-event-helper",
+          "title": "Event Helper",
+          "path": "/volunteer/event-helper",
+          "body": {
+            "processed": "<p>Our events are critical to raising awareness and funds for the rescue. Event helpers assist with setup, registration, managing activities, and teardown. This is a great opportunity for those who enjoy working with people.</p><h2>What You Will Do</h2><ul><li>Set up and take down event materials</li><li>Greet and register attendees</li><li>Assist with animal demonstrations</li><li>Help with auction and raffle coordination</li></ul>",
+            "summary": "Our events are critical to raising awareness and funds for the rescue. Event helpers assist with setup, registration, managing activities, and teardown. This is a great opportunity for those who enjoy"
+          },
+          "commitment": "Varies by event",
+          "location": "Various locations",
+          "skillsNeeded": "Organized, friendly, and reliable; event experience a plus",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+            "alt": "Event Helper Volunteer",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/record-adoptions-march": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-adoption-record",
+          "title": "Record-Breaking March: 150 Animals Find Forever Homes",
+          "path": "/news/record-adoptions-march",
+          "body": {
+            "processed": "<p>Pawsitive Haven is thrilled to announce that March 2026 was our most successful adoption month ever, with 150 animals placed in loving forever homes. This includes 85 dogs, 55 cats, and 10 small animals.</p><p>\"This incredible achievement is thanks to our dedicated staff, amazing volunteers, and the compassionate families who opened their hearts and homes,\" said Executive Director Maria Santos.</p><p>The record month was boosted by our Adopt-a-Thon event and a social media campaign that went viral, reaching over 500,000 people.</p>",
+            "summary": "Pawsitive Haven is thrilled to announce that March 2026 was our most successful adoption month ever, with 150 animals placed in loving forever homes. This includes 85 dogs, 55 cats, and 10 small anima"
+          },
+          "category": [
+            {
+              "id": "success-stories",
+              "name": "success-stories"
+            },
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80",
+            "alt": "Record Adoptions in March",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/new-cat-wing-opening": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-new-wing",
+          "title": "New Cat Wing Opening This Summer",
+          "path": "/news/new-cat-wing-opening",
+          "body": {
+            "processed": "<p>Thanks to generous community donations, Pawsitive Haven is expanding with a brand-new cat wing that will double our feline capacity. The 5,000 square foot addition will feature individual cat suites, communal play rooms, and a dedicated kitten nursery.</p><p>Construction is expected to be completed by July 2026. The new wing will allow us to take in an additional 100 cats and provide better enrichment and socialization spaces.</p>",
+            "summary": "Thanks to generous community donations, Pawsitive Haven is expanding with a brand-new cat wing that will double our feline capacity. The 5,000 square foot addition will feature individual cat suites, "
+          },
+          "category": [
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=800&q=80",
+            "alt": "New Cat Wing Opening",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/volunteer-spotlight-sarah": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-volunteer-spotlight",
+          "title": "Volunteer Spotlight: Sarah Helps 200 Animals Find Homes",
+          "path": "/news/volunteer-spotlight-sarah",
+          "body": {
+            "processed": "<p>This month we celebrate Sarah Chen, a volunteer who has logged over 2,000 hours and personally helped 200 animals transition to their forever homes. Sarah started volunteering three years ago after adopting her own dog, Buddy, from our shelter.</p><p>\"Every animal deserves love and patience. When I see a scared dog finally wag its tail or a shy cat start to purr, it makes every minute worth it,\" Sarah says.</p><p>Sarah is a shining example of the impact one person can make in the lives of animals.</p>",
+            "summary": "This month we celebrate Sarah Chen, a volunteer who has logged over 2,000 hours and personally helped 200 animals transition to their forever homes. Sarah started volunteering three years ago after ad"
+          },
+          "category": [
+            {
+              "id": "community",
+              "name": "community"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+            "alt": "Volunteer Spotlight - Sarah",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Pawsitive Haven Animal Rescue",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Founded in 2011, Pawsitive Haven Animal Rescue is a 501(c)(3) nonprofit dedicated to rescuing, rehabilitating, and rehoming animals in need. We operate a no-kill shelter and work with a network of foster families to provide temporary care for animals awaiting adoption.</p><h2>Our Mission</h2><p>To provide compassionate care for abandoned, abused, and neglected animals, and to find them loving, permanent homes while promoting responsible pet ownership through education and community outreach.</p><h2>Our Values</h2><ul><li><strong>Compassion</strong> - Every animal deserves kindness and respect.</li><li><strong>Community</strong> - We are stronger when we work together.</li><li><strong>Transparency</strong> - We are open and honest about our operations and finances.</li><li><strong>Education</strong> - We believe in teaching responsible pet ownership.</li></ul><h2>What We Do</h2><p>Each year, Pawsitive Haven rescues over 1,000 animals from high-kill shelters, owner surrenders, and cruelty cases. Our team of veterinarians, behaviorists, and dedicated volunteers ensure every animal receives medical care, behavioral support, and socialization before finding their forever home.</p>",
+            "summary": "Founded in 2011, Pawsitive Haven Animal Rescue is a 501(c)(3) nonprofit dedicated to rescuing, rehabilitating, and rehoming animals in need. We operate a no-kill shelter and work with a network of fos"
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-contact",
+          "title": "Contact Pawsitive Haven",
+          "path": "/contact",
+          "body": {
+            "processed": "<h2>Visit Us</h2><p>Pawsitive Haven Animal Rescue<br/>456 Rescue Road<br/>Riverside, CA 92501</p><h2>Hours</h2><ul><li><strong>Monday - Friday:</strong> 10:00 AM - 6:00 PM</li><li><strong>Saturday:</strong> 10:00 AM - 5:00 PM</li><li><strong>Sunday:</strong> 12:00 PM - 4:00 PM</li></ul><h2>Get in Touch</h2><p>Phone: (555) 742-7738<br/>Email: info@pawsitivehaven.org</p><p>For adoption inquiries, please email <strong>adoptions@pawsitivehaven.org</strong>.</p><p>For volunteer inquiries, please email <strong>volunteer@pawsitivehaven.org</strong>.</p>",
+            "summary": "Visit UsPawsitive Haven Animal Rescue456 Rescue RoadRiverside, CA 92501HoursMonday - Friday: 10:00 AM - 6:00 PMSaturday: 10:00 AM - 5:00 PMSunday: 12:00 PM - 4:00 PMGet in TouchPhone: (555) 742-7738Em"
+          }
+        }
+      }
+    }
+  }
+}

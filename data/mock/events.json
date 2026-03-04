@@ -1,0 +1,158 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-adoption-day",
+          "title": "Spring Adoption Day",
+          "path": "/events/spring-adoption-day",
+          "body": {
+            "processed": "<p>Join us for our biggest adoption event of the season! Meet dozens of adoptable dogs, cats, and small animals looking for their forever homes. Reduced adoption fees all day long.</p><h2>What to Expect</h2><ul><li>Meet adoptable animals</li><li>Talk with adoption counselors</li><li>Free pet supplies for adopters</li><li>Food trucks and family activities</li></ul>",
+            "summary": "Join us for our biggest adoption event of the season! Meet dozens of adoptable dogs, cats, and small animals looking for their forever homes. Reduced adoption fees all day long.What to ExpectMeet adop"
+          },
+          "eventDate": {
+            "timestamp": 1776610800
+          },
+          "endDate": {
+            "timestamp": 1776632400
+          },
+          "location": "Pawsitive Haven Main Shelter",
+          "eventType": [
+            {
+              "id": "adoption-event",
+              "name": "adoption-event"
+            }
+          ],
+          "registrationUrl": "https://pawsitivehaven.org/register/adoption-day",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+            "alt": "Spring Adoption Day",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-gala",
+          "title": "Furry Friends Annual Gala",
+          "path": "/events/furry-friends-gala",
+          "body": {
+            "processed": "<p>Our annual gala is our premier fundraising event, featuring a silent auction, live entertainment, dinner, and heartwarming stories of rescued animals. All proceeds go directly to animal care and rescue operations.</p><h2>Event Highlights</h2><ul><li>Cocktail hour and silent auction</li><li>Three-course dinner</li><li>Live music by The Howlers</li><li>Special recognition of top volunteers</li></ul>",
+            "summary": "Our annual gala is our premier fundraising event, featuring a silent auction, live entertainment, dinner, and heartwarming stories of rescued animals. All proceeds go directly to animal care and rescu"
+          },
+          "eventDate": {
+            "timestamp": 1778972400
+          },
+          "endDate": {
+            "timestamp": 1778986800
+          },
+          "location": "Grand Ballroom, Riverside Hotel",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://pawsitivehaven.org/register/gala",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800&q=80",
+            "alt": "Furry Friends Annual Gala",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-training",
+          "title": "Free Puppy Training Workshop",
+          "path": "/events/puppy-training-workshop",
+          "body": {
+            "processed": "<p>New to dog ownership? Join our certified trainer for a free workshop covering basic obedience, socialization, and house training techniques. Open to all community members, not just adopters.</p><h2>Topics Covered</h2><ul><li>Basic commands (sit, stay, come)</li><li>Leash walking</li><li>House training tips</li><li>Socialization strategies</li></ul>",
+            "summary": "New to dog ownership? Join our certified trainer for a free workshop covering basic obedience, socialization, and house training techniques. Open to all community members, not just adopters.Topics Cov"
+          },
+          "eventDate": {
+            "timestamp": 1775415600
+          },
+          "endDate": {
+            "timestamp": 1775422800
+          },
+          "location": "Pawsitive Haven Training Center",
+          "eventType": [
+            {
+              "id": "training",
+              "name": "training"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+            "alt": "Puppy Training Workshop",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

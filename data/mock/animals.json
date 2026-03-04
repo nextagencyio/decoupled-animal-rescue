@@ -1,0 +1,279 @@
+{
+  "data": {
+    "nodeAnimals": {
+      "__typename": "NodeAnimalConnection",
+      "nodes": [
+        {
+          "__typename": "NodeAnimal",
+          "id": "animal-bella",
+          "title": "Bella",
+          "path": "/animals/bella",
+          "body": {
+            "processed": "<p>Bella is a sweet and gentle golden retriever mix who loves long walks and belly rubs. She was found as a stray and has blossomed into a confident, loving companion during her time at the shelter.</p><h2>About Bella</h2><p>Bella is fully vaccinated, spayed, and microchipped. She walks well on a leash and knows basic commands like sit, stay, and shake. She would thrive in a home with a yard where she can play fetch.</p>",
+            "summary": "Bella is a sweet and gentle golden retriever mix who loves long walks and belly rubs. She was found as a stray and has blossomed into a confident, loving companion during her time at the shelter.About"
+          },
+          "species": [
+            {
+              "id": "dog",
+              "name": "dog"
+            }
+          ],
+          "breed": "Golden Retriever Mix",
+          "age": "3 years",
+          "gender": "Female",
+          "adoptionFee": "$250",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+            "alt": "Bella - Golden Retriever Mix",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        },
+        {
+          "__typename": "NodeAnimal",
+          "id": "animal-shadow",
+          "title": "Shadow",
+          "path": "/animals/shadow",
+          "body": {
+            "processed": "<p>Shadow is a sleek black cat with mesmerizing green eyes. He is calm, independent, and enjoys lounging in sunny spots. Shadow gets along well with other cats and is perfect for a quiet household.</p><h2>About Shadow</h2><p>Shadow is neutered, vaccinated, and FIV/FeLV negative. He enjoys being petted but also appreciates his alone time. He would be a wonderful addition to a calm home.</p>",
+            "summary": "Shadow is a sleek black cat with mesmerizing green eyes. He is calm, independent, and enjoys lounging in sunny spots. Shadow gets along well with other cats and is perfect for a quiet household.About "
+          },
+          "species": [
+            {
+              "id": "cat",
+              "name": "cat"
+            }
+          ],
+          "breed": "Domestic Shorthair",
+          "age": "4 years",
+          "gender": "Male",
+          "adoptionFee": "$150",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80",
+            "alt": "Shadow - Black Domestic Shorthair",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        },
+        {
+          "__typename": "NodeAnimal",
+          "id": "animal-max",
+          "title": "Max",
+          "path": "/animals/max",
+          "body": {
+            "processed": "<p>Max is an energetic and playful young German Shepherd who loves to run and play fetch. He is smart, eager to please, and would benefit from an active family who can provide plenty of exercise and mental stimulation.</p><h2>About Max</h2><p>Max is neutered, vaccinated, and microchipped. He knows several commands and is crate-trained. He does best as the only pet in the household.</p>",
+            "summary": "Max is an energetic and playful young German Shepherd who loves to run and play fetch. He is smart, eager to please, and would benefit from an active family who can provide plenty of exercise and ment"
+          },
+          "species": [
+            {
+              "id": "dog",
+              "name": "dog"
+            }
+          ],
+          "breed": "German Shepherd",
+          "age": "1.5 years",
+          "gender": "Male",
+          "adoptionFee": "$300",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=800&q=80",
+            "alt": "Max - German Shepherd",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": false
+        },
+        {
+          "__typename": "NodeAnimal",
+          "id": "animal-luna",
+          "title": "Luna",
+          "path": "/animals/luna",
+          "body": {
+            "processed": "<p>Luna is a beautiful calico cat with a playful and affectionate personality. She loves chasing feather toys and curling up in laps for afternoon naps. Luna was surrendered when her previous owner moved and could not take her along.</p><h2>About Luna</h2><p>Luna is spayed, vaccinated, and litter-box trained. She is indoor-only and would do well in a home with or without other cats.</p>",
+            "summary": "Luna is a beautiful calico cat with a playful and affectionate personality. She loves chasing feather toys and curling up in laps for afternoon naps. Luna was surrendered when her previous owner moved"
+          },
+          "species": [
+            {
+              "id": "cat",
+              "name": "cat"
+            }
+          ],
+          "breed": "Calico",
+          "age": "2 years",
+          "gender": "Female",
+          "adoptionFee": "$150",
+          "animalStatus": [
+            {
+              "id": "pending",
+              "name": "pending"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=800&q=80",
+            "alt": "Luna - Calico Cat",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": true
+        },
+        {
+          "__typename": "NodeAnimal",
+          "id": "animal-biscuit",
+          "title": "Biscuit",
+          "path": "/animals/biscuit",
+          "body": {
+            "processed": "<p>Biscuit is an adorable Holland Lop rabbit with floppy ears and a curious personality. He enjoys hopping around, munching on hay, and being gently petted. Biscuit is litter-trained and easy to care for.</p><h2>About Biscuit</h2><p>Biscuit is neutered and in great health. He needs a spacious enclosure with daily time outside the cage to explore. He is gentle and great for families with older children.</p>",
+            "summary": "Biscuit is an adorable Holland Lop rabbit with floppy ears and a curious personality. He enjoys hopping around, munching on hay, and being gently petted. Biscuit is litter-trained and easy to care for"
+          },
+          "species": [
+            {
+              "id": "rabbit",
+              "name": "rabbit"
+            }
+          ],
+          "breed": "Holland Lop",
+          "age": "1 year",
+          "gender": "Male",
+          "adoptionFee": "$75",
+          "animalStatus": [
+            {
+              "id": "available",
+              "name": "available"
+            }
+          ],
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80",
+            "alt": "Biscuit - Holland Lop Rabbit",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "goodWithKids": true,
+          "goodWithPets": false
+        }
+      ]
+    }
+  }
+}

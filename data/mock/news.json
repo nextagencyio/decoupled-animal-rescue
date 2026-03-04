@@ -1,0 +1,142 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-adoption-record",
+          "title": "Record-Breaking March: 150 Animals Find Forever Homes",
+          "path": "/news/record-adoptions-march",
+          "body": {
+            "processed": "<p>Pawsitive Haven is thrilled to announce that March 2026 was our most successful adoption month ever, with 150 animals placed in loving forever homes. This includes 85 dogs, 55 cats, and 10 small animals.</p><p>\"This incredible achievement is thanks to our dedicated staff, amazing volunteers, and the compassionate families who opened their hearts and homes,\" said Executive Director Maria Santos.</p><p>The record month was boosted by our Adopt-a-Thon event and a social media campaign that went viral, reaching over 500,000 people.</p>",
+            "summary": "Pawsitive Haven is thrilled to announce that March 2026 was our most successful adoption month ever, with 150 animals placed in loving forever homes. This includes 85 dogs, 55 cats, and 10 small anima"
+          },
+          "category": [
+            {
+              "id": "success-stories",
+              "name": "success-stories"
+            },
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80",
+            "alt": "Record Adoptions in March",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-new-wing",
+          "title": "New Cat Wing Opening This Summer",
+          "path": "/news/new-cat-wing-opening",
+          "body": {
+            "processed": "<p>Thanks to generous community donations, Pawsitive Haven is expanding with a brand-new cat wing that will double our feline capacity. The 5,000 square foot addition will feature individual cat suites, communal play rooms, and a dedicated kitten nursery.</p><p>Construction is expected to be completed by July 2026. The new wing will allow us to take in an additional 100 cats and provide better enrichment and socialization spaces.</p>",
+            "summary": "Thanks to generous community donations, Pawsitive Haven is expanding with a brand-new cat wing that will double our feline capacity. The 5,000 square foot addition will feature individual cat suites, "
+          },
+          "category": [
+            {
+              "id": "announcements",
+              "name": "announcements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=800&q=80",
+            "alt": "New Cat Wing Opening",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-volunteer-spotlight",
+          "title": "Volunteer Spotlight: Sarah Helps 200 Animals Find Homes",
+          "path": "/news/volunteer-spotlight-sarah",
+          "body": {
+            "processed": "<p>This month we celebrate Sarah Chen, a volunteer who has logged over 2,000 hours and personally helped 200 animals transition to their forever homes. Sarah started volunteering three years ago after adopting her own dog, Buddy, from our shelter.</p><p>\"Every animal deserves love and patience. When I see a scared dog finally wag its tail or a shy cat start to purr, it makes every minute worth it,\" Sarah says.</p><p>Sarah is a shining example of the impact one person can make in the lives of animals.</p>",
+            "summary": "This month we celebrate Sarah Chen, a volunteer who has logged over 2,000 hours and personally helped 200 animals transition to their forever homes. Sarah started volunteering three years ago after ad"
+          },
+          "category": [
+            {
+              "id": "community",
+              "name": "community"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+            "alt": "Volunteer Spotlight - Sarah",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
