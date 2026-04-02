@@ -47,7 +47,7 @@ export const GET_ANIMALS = gql`
             summary
           }
           species {
-            ... on TermInterface {
+            ... on TermSpecies {
               id
               name
             }
@@ -57,7 +57,7 @@ export const GET_ANIMALS = gql`
           gender
           adoptionFee
           animalStatus {
-            ... on TermInterface {
+            ... on TermAnimalStatus {
               id
               name
             }
@@ -95,7 +95,7 @@ export const GET_ANIMAL_BY_PATH = gql`
               processed
             }
             species {
-              ... on TermInterface {
+              ... on TermSpecies {
                 id
                 name
               }
@@ -105,7 +105,7 @@ export const GET_ANIMAL_BY_PATH = gql`
             gender
             adoptionFee
             animalStatus {
-              ... on TermInterface {
+              ... on TermAnimalStatus {
                 id
                 name
               }
@@ -152,7 +152,7 @@ export const GET_EVENTS = gql`
           }
           location
           eventType {
-            ... on TermInterface {
+            ... on TermEventType {
               id
               name
             }
@@ -196,7 +196,7 @@ export const GET_EVENT_BY_PATH = gql`
             }
             location
             eventType {
-              ... on TermInterface {
+              ... on TermEventType {
                 id
                 name
               }
@@ -318,7 +318,7 @@ export const GET_NEWS = gql`
             }
           }
           category {
-            ... on TermInterface {
+            ... on TermNewsCategory {
               id
               name
             }
@@ -358,7 +358,7 @@ export const GET_NEWS_BY_PATH = gql`
               }
             }
             category {
-              ... on TermInterface {
+              ... on TermNewsCategory {
                 id
                 name
               }
@@ -392,7 +392,7 @@ export const GET_NODE_BY_PATH = gql`
               processed
             }
             species {
-              ... on TermInterface {
+              ... on TermSpecies {
                 id
                 name
               }
@@ -402,7 +402,7 @@ export const GET_NODE_BY_PATH = gql`
             gender
             adoptionFee
             animalStatus {
-              ... on TermInterface {
+              ... on TermAnimalStatus {
                 id
                 name
               }
@@ -442,7 +442,7 @@ export const GET_NODE_BY_PATH = gql`
             }
             location
             eventType {
-              ... on TermInterface {
+              ... on TermEventType {
                 id
                 name
               }
@@ -460,7 +460,7 @@ export const GET_NODE_BY_PATH = gql`
               processed
             }
             category {
-              ... on TermInterface {
+              ... on TermNewsCategory {
                 id
                 name
               }
@@ -506,7 +506,7 @@ export const GET_FEATURED_ANIMALS = gql`
         path
         ... on NodeAnimal {
           species {
-            ... on TermInterface {
+            ... on TermSpecies {
               id
               name
             }
@@ -516,7 +516,7 @@ export const GET_FEATURED_ANIMALS = gql`
           gender
           adoptionFee
           animalStatus {
-            ... on TermInterface {
+            ... on TermAnimalStatus {
               id
               name
             }
@@ -565,7 +565,7 @@ export const GET_FEATURED_NEWS = gql`
             }
           }
           category {
-            ... on TermInterface {
+            ... on TermNewsCategory {
               id
               name
             }
@@ -591,7 +591,7 @@ export const GET_UPCOMING_EVENTS = gql`
           }
           location
           eventType {
-            ... on TermInterface {
+            ... on TermEventType {
               id
               name
             }

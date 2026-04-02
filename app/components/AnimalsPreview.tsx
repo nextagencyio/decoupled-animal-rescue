@@ -1,8 +1,10 @@
 'use client'
 
 import Link from 'next/link'
-import { useQuery } from '@apollo/client'
+import { useQuery, gql } from '@apollo/client'
 import { GET_FEATURED_ANIMALS } from '@/lib/queries'
+
+const FEATURED_ANIMALS_QUERY = gql(GET_FEATURED_ANIMALS)
 import { DrupalAnimal, DrupalHomepage } from '@/lib/types'
 import { ArrowRight, PawPrint, Heart } from 'lucide-react'
 import ResponsiveImage from './ResponsiveImage'
@@ -18,7 +20,7 @@ interface FeaturedAnimalsData {
 }
 
 export default function AnimalsPreview({ homepageContent }: AnimalsPreviewProps) {
-  const { data, loading, error } = useQuery<FeaturedAnimalsData>(GET_FEATURED_ANIMALS)
+  const { data, loading, error } = useQuery<FeaturedAnimalsData>(FEATURED_ANIMALS_QUERY)
 
   const animals = data?.nodeAnimals?.nodes || []
 
